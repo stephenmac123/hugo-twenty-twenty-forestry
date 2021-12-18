@@ -15,9 +15,9 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = ""
+URL = "/history"
 name = "History"
-weight = ""
+weight = "6"
 [[menu.main]]
 URL = "/"
 name = "Home"
